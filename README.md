@@ -1,1 +1,1 @@
-This repository contains task three of codsoft internship
+This repository contains code files of task three of codsoft internship
